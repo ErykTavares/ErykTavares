@@ -3,7 +3,8 @@
 * **Idade : 20**
 * **Tel : (75) 9195-2463** <img src="https://i.pinimg.com/originals/67/8b/20/678b20b7e76e3c81baa4f8c6ee1bc656.png" width="15" height="15">
 * **E-Mail : EricTavares35@gmail.com**
-* **Programador : Back-End**
+
+* **Programador : Back-End** <img src="https://image.flaticon.com/icons/png/128/2166/2166823.png" width="15" height="15">
 
 ## **Linguagens e Ferramentas**
 * **Python** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" width="15" height="15"> 
@@ -18,3 +19,5 @@
 ---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eryktavares&show_icons=true&locale=en&layout=compact" alt="eryktavares"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eryktavares&show_icons=true&locale=en" alt="eryktavares" /></p>
+
+
