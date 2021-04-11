@@ -33,3 +33,5 @@
 ---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eryktavares&show_icons=true&locale=en&layout=compact" alt="eryktavares"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eryktavares&show_icons=true&locale=en" alt="eryktavares" /></p>
+
+
