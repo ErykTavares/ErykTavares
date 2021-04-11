@@ -7,7 +7,16 @@
 
 ---
 ## **Habilidades**
-* **Python** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" width="15" height="15"> 
+* **Python** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" width="15" height="15">
+
+* **Django** <img src="https://lucasbiason.github.io/images/logos/django-min.png" widht="15" height="15"> 
+
+* **JavaScript** <img src="https://marcas-logos.net/wp-content/uploads/2020/11/JavaScript-logo.jpg" widht=15 height="15">
+
+* **Html** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" widht="15" height="15">
+
+* **Css** <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" width=15 height="15">
+
 * **Photoshop** <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" width= "15" height="15">
 
 * **Visual Studio Code** <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" width = "15" eight="15">
@@ -24,5 +33,3 @@
 ---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eryktavares&show_icons=true&locale=en&layout=compact" alt="eryktavares"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eryktavares&show_icons=true&locale=en" alt="eryktavares" /></p>
-
-
