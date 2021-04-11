@@ -11,7 +11,7 @@
 
 * **Django** <img src="https://lucasbiason.github.io/images/logos/django-min.png" widht="15" height="15"> 
 
-* **JavaScript** <img src="https://marcas-logos.net/wp-content/uploads/2020/11/JavaScript-logo.jpg" widht=15 height="15">
+* **JavaScript** <img src="https://magadanski.com/wp-content/uploads/2019/01/js-logo-1.png" widht=15 height="15">
 
 * **Html** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" widht="15" height="15">
 
