@@ -17,6 +17,8 @@
 
 * **Css** <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" width=15 height="15">
 
+* **Bootstrap** <img src="https://img.icons8.com/color/452/bootstrap.png" widht=15 height="15">
+
 * **Photoshop** <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" width= "15" height="15">
 
 * **Visual Studio Code** <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" width = "15" eight="15">
