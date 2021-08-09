@@ -47,4 +47,4 @@
 </div>
 
 
-![Snake Animation](https://github.com/ErykTavares)
+![Snake Animation](https://github.com/ErykTavares/ErykTavares/blob/output/github-contribution-grid-snake.svg)
