@@ -1,40 +1,50 @@
-# **Dados Pessoais**
-* **Nome : Eric De Souza Tavares**
-* **Idade : 20**
-* **Tel : (75) 9195-2463** <img src="https://i.pinimg.com/originals/67/8b/20/678b20b7e76e3c81baa4f8c6ee1bc656.png" width="15" height="15">
-* **E-Mail : EricTavares35@gmail.com**
-* **Programador : Front-End / Back-End** <img src="https://cdn2.iconfinder.com/data/icons/ux-and-ui-astute-vol-1/512/Full_Stack_Developer-512.png" width="15" height="15">
-*  **Bio: https://eryktavares.github.io/instagram_biolinks/**
+# ErykTavares
+
+### Sobre
+* **Desenvolvedor Web Front-end e futuro desenvolvedor full stack.**
+
+
+### Skills
+<div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="">
+</div>
+
+### Estudando
+<div>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+</div>
+
+### Ferramentas e IDES
+
+<div>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+    
+</div>
+
+## Contato
+<div>
+    <a href="https://www.linkedin.com/in/eryktavares35/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.instagram.com/lord_eryktavares/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="http://api.whatsapp.com/send?phone=557591952463" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+    <a href="https://discord.com/users/859431514449379358" target="_blank"><img src="https://img.shields.io/badge/-@ErykTavares%239649-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white"></a>
+    <a href="https://www.youtube.com/channel/UCvLrUAMzmxB-H0iK8H7ReQg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</div>
 
 ---
-## **Habilidades**
-* **Python** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" width="15" height="15">
-
-* **Django** <img src="https://lucasbiason.github.io/images/logos/django-min.png" widht="15" height="15"> 
-
-* **JavaScript** <img src="https://www.freepnglogos.com/uploads/javascript/javascript-web-development-for-app-mobile-4.png" widht=15 height="15">
-
-* **Html** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" widht="15" height="15">
-
-* **Css** <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" width=15 height="15">
-
-* **Bootstrap** <img src="https://img.icons8.com/color/452/bootstrap.png" widht=15 height="15">
-
-* **Photoshop** <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" width= "15" height="15">
-
-* **Visual Studio Code** <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" width = "15" eight="15">
-
-* **Windows** <img src="https://evo.audio/wp-content/uploads/2016/05/Windows-10-Icon.png" width = "15" height="15">
-
-* **informatica** <img src="https://icons.iconarchive.com/icons/jommans/emluator/256/My-Computer-icon.png" width = "17" height="17">
-
----
-## **Idiomas**
-* **Portugues : Nativo**
-* **Inglês : Básico**
-
----
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eryktavares&show_icons=true&locale=en&layout=compact" alt="eryktavares"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eryktavares&show_icons=true&locale=en" alt="eryktavares" /></p>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErykTavares&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErykTavares&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div style="text-align:right">
+  <img src="https://media.giphy.com/media/RJN6Chx6VykBSyImJT/giphy.gif" width="150px" height="150p" >
+</div>
