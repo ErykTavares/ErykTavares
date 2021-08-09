@@ -45,3 +45,6 @@
 <div style="text-align:right">
   <img src="https://media.giphy.com/media/RJN6Chx6VykBSyImJT/giphy.gif" width="150px" height="150p" >
 </div>
+
+
+![Snake Animation](https://github.com/ErykTavares)
