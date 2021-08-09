@@ -4,6 +4,7 @@
 * **Tel : (75) 9195-2463** <img src="https://i.pinimg.com/originals/67/8b/20/678b20b7e76e3c81baa4f8c6ee1bc656.png" width="15" height="15">
 * **E-Mail : EricTavares35@gmail.com**
 * **Programador : Front-End / Back-End** <img src="https://cdn2.iconfinder.com/data/icons/ux-and-ui-astute-vol-1/512/Full_Stack_Developer-512.png" width="15" height="15">
+*  **Bio: https://eryktavares.github.io/instagram_biolinks/**
 
 ---
 ## **Habilidades**
