@@ -1,7 +1,7 @@
 # ErykTavares
 
 ### Sobre
-* **Desenvolvedor Web Front-end e futuro desenvolvedor full stack.**
+* **Desenvolvedor Web e futuro desenvolvedor full stack.**
 
 
 ### Skills
