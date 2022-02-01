@@ -3,11 +3,6 @@
 ### Sobre
 * **Desenvolvedor Web Front-End e futuro desenvolvedor full stack, sou apaixonado pela área de tecnologia, sigo estudando como autodidata até conseguir um trabalho para poder adentrar em um curso de tecnólogo de análise e desenvolvimento de sistemas, atualmente estudando react e inglês.**
 
-
-Pretendo Estudar:
-PHP, Laravel, SQL**
-
-
 ### Skills
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
