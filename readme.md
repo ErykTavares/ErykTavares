@@ -43,12 +43,12 @@
 
 ## Contato
 
-<a href="https://www.linkedin.com/in/eryktavares35/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/lord_eryktavares/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="http://api.whatsapp.com/send?phone=557591952463" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://discord.com/users/859431514449379358" target="_blank"><img src="https://img.shields.io/badge/-@ErykTavares%239649-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCvLrUAMzmxB-H0iK8H7ReQg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://eryktavares-portifolio.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/gist/ErykTavares/528eac5ed103738a97a46459235e2ba8/raw/4ddce7c034661ba343c4b6d740ef43f04d70d0c7/portifolio.svg"></a>
+<a href="https://www.linkedin.com/in/eryktavares35/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/lord_eryktavares/?hl=pt-br" rel="noreferrer"  target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="http://api.whatsapp.com/send?phone=557591952463" rel="noreferrer"  target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://discord.com/users/859431514449379358" rel="noreferrer"  target="_blank"><img src="https://img.shields.io/badge/-@ErykTavares%239649-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCvLrUAMzmxB-H0iK8H7ReQg" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://eryktavares-portifolio.netlify.app/" rel="noreferrer"  target="_blank"><img src="https://raw.githubusercontent.com/gist/ErykTavares/528eac5ed103738a97a46459235e2ba8/raw/4ddce7c034661ba343c4b6d740ef43f04d70d0c7/portifolio.svg"></a>
 
 ---
 
