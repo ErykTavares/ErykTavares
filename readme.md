@@ -2,7 +2,13 @@
 
 ### Sobre
 
-- **Desenvolvedor Web Front-End e futuro desenvolvedor full stack, sou apaixonado pela área de tecnologia, sigo estudando como autodidata até conseguir um trabalho para poder adentrar em um curso de tecnólogo de análise e desenvolvimento de sistemas, atualmente estudando react e inglês.**
+- **Desenvolvedor Front-end com experiência em React, TypeScript, Javascript, StyledComponentes, Html, Css, Sass, Bootstrap;
+
+Atualmente trabalhando como Desenvolvedor Front-End Freelancer;
+
+Tenho interesse em ser um Desenvolvedor FullStack;
+
+Sou apaixonado pela área de tecnologia, venho mexendo em computadores desde 2011 que foi quando eu ganhei meu primeiro notebook, dês dessa época eu tenho interesse na área de programação. Entusiasta em UI UX e edição de vídeo, curto muito jogos, animes, mangás, leitura e esportes principalmente calistenia, eles são minhas atividades nas horas que eu não estou trabalhando ou estudando. Atualmente estudando como autodidata, inglês, Programação.**
 
 ### Skills
 
