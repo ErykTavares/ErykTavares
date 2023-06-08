@@ -66,7 +66,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErykTavares&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErykTavares&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://redme-stats.vercel.app/api?username=ErykTavares&show_icons=true&theme=dracula) [![Top Langs](https://redme-stats.vercel.app/api/top-langs/?username=ErykTavares&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="text-align:start">
   <img src="https://64.media.tumblr.com/6105db77ee4bc1fad26da93a1366e5c6/tumblr_mmih9mAwfx1s9o2o3o6_500.gif" width="320px" height="200px" >
