@@ -4,7 +4,7 @@
 
 - **Desenvolvedor Front-end com experiência em React, ReactNative, TypeScript, Javascript, Angular, Html, Css, Sass, Bootstrap;**
 
-- **Atualmente trabalhando como Desenvolvedor Front-End na Uuhuw Software House;**
+- **Atualmente trabalhando como Desenvolvedor Front-End Web & Mobile;**
 
 - **Tenho interesse em ser um Desenvolvedor FullStack;**
 
